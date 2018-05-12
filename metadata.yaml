@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34359'
     url: http://www.gutenberg.org/2009/agents/34359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30085#Life-of-Henry-Martyn-Missionary-to-India-and-Persia-1781-to-1812
 gutenberg_issued: '2009-09-25'
 gutenberg_type: Text
 identifiers:
